@@ -1,6 +1,6 @@
 # Bootstrap-Portfolio
 
-This is my portfolio, updated to be employer competitive with links to past projects, my Linkedin account, and other places people can reach me.
+This is my portfolio with links to past projects, my Linkedin account, and other places people can reach me.
 
 ### Problem
 Portfolio was built simply with some native CSS, needed something greater to make look nicer.
