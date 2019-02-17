@@ -20,6 +20,7 @@ https://zzzbray.github.io/Bootstrap-Portfolio/
 #### Github Repos Linked to on Portfolio Page
 
 [Lenzo's Pictogram Game](https://github.com/zzzbray/lenzosPictogramGame)
-[Giftastic](https://github.com/zzzbray/Giftastic)
-[Command Line App "Liri](https://github.com/zzzbray/liri-node-app)
 
+[Giftastic](https://github.com/zzzbray/Giftastic)
+
+[Liri](https://github.com/zzzbray/liri-node-app)
