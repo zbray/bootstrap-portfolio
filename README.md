@@ -14,10 +14,14 @@ Update: Code has been cleaned up, website too with new colors and text and styli
 HTML, CSS, Bootstrap
 
 
-#### Github Pages Link
+#### GitHub Pages Deployment Link
 https://zzzbray.github.io/Bootstrap-Portfolio/
 
 #### Github Repos Linked to on Portfolio Page
+
+[Next Best Move](https://github.com/zzzbray/evenStevens)
+
+[Train Tracker](https://github.com/zzzbray/Train-Scheduler)
 
 [Lenzo's Pictogram Game](https://github.com/zzzbray/lenzosPictogramGame)
 
