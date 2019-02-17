@@ -13,13 +13,6 @@ Update: Code has been cleaned up, website too with new colors and text and styli
 ### Technology Used
 HTML, CSS, Bootstrap
 
-
-
-
-
-
-
-
 #### GitHub Pages Deployment Link
 https://zzzbray.github.io/Bootstrap-Portfolio/
 
