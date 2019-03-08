@@ -1,4 +1,4 @@
-# Bootstrap-Portfolio
+# bootstrapPortfolio
 
 This is my portfolio with links to past projects, my Linkedin account, and other places people can reach me.
 
@@ -17,13 +17,13 @@ HTML, CSS, Bootstrap
 
 [Next Best Move](https://github.com/zzzbray/evenStevens)
 
-[Train Tracker](https://github.com/zzzbray/Train-Scheduler)
+[Train Tracker](https://github.com/zzzbray/trainScheduler)
 
 [Lenzo's Pictogram Game](https://github.com/zzzbray/lenzosPictogramGame)
 
-[Giftastic](https://github.com/zzzbray/Giftastic)
+[Giftastic](https://github.com/zzzbray/giftastic)
 
-[Liri](https://github.com/zzzbray/liri-node-app)
+[Liri](https://github.com/zzzbray/liriNodeApp)
 
 
 #### GitHub Pages Deployment Link
