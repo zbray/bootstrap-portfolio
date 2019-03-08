@@ -13,9 +13,6 @@ Update: Code has been cleaned up, website too with new colors and text and styli
 ### Technology Used
 HTML, CSS, Bootstrap
 
-#### GitHub Pages Deployment Link
-https://zzzbray.github.io/Bootstrap-Portfolio/
-
 #### Github Repos Linked to on Portfolio Page
 
 [Next Best Move](https://github.com/zzzbray/evenStevens)
@@ -27,3 +24,7 @@ https://zzzbray.github.io/Bootstrap-Portfolio/
 [Giftastic](https://github.com/zzzbray/Giftastic)
 
 [Liri](https://github.com/zzzbray/liri-node-app)
+
+
+#### GitHub Pages Deployment Link
+https://zzzbray.github.io/bootstrapPortfolio/
