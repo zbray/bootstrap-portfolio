@@ -25,6 +25,7 @@ HTML, CSS, Bootstrap
 
 [Liri](https://github.com/zzzbray/liriNodeApp)
 
+[friendFinder](https://github.com/zzzbray/friendFinder)
 
 #### GitHub Pages Deployment Link
 https://zzzbray.github.io/bootstrapPortfolio/
