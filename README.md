@@ -15,17 +15,17 @@ HTML, CSS, Bootstrap
 
 #### Github Repos Linked to on Portfolio Page
 
-[Next Best Move](https://github.com/zzzbray/evenStevens)
+[Next Best Move](https://github.com/zbray/evenStevens)
 
-[Train Tracker](https://github.com/zzzbray/trainScheduler)
+[Train Tracker](https://github.com/zbray/trainScheduler)
 
-[Lenzo's Pictogram Game](https://github.com/zzzbray/lenzosPictogramGame)
+[Lenzo's Pictogram Game](https://github.com/zbray/lenzosPictogramGame)
 
-[Giftastic](https://github.com/zzzbray/giftastic)
+[Giftastic](https://github.com/zbray/giftastic)
 
-[Liri](https://github.com/zzzbray/liriNodeApp)
+[Liri](https://github.com/zbray/liriNodeApp)
 
-[friendFinder](https://github.com/zzzbray/friendFinder)
+[friendFinder](https://github.com/zbray/friendFinder)
 
 #### GitHub Pages Deployment Link
-https://zzzbray.github.io/bootstrapPortfolio/
+https://zbray.github.io/bootstrapPortfolio/
